@@ -1,2 +1,3 @@
-# Inf-CS
-Informatics and Computer Science
+# Informatics and Computer Science
+3rd semester 
+Object Oriented Programming
