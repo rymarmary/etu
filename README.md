@@ -5,10 +5,10 @@
 1. Object Oriented Programming / 3rd semester - labs and course work<br>
    *branch: oop*
 2. Algorythms and Data Structures / 4th semester - labs and course work<br>
-   *branch: __*
+   *branch: alg_ds*
 3. Databases / 5th semester - labs<br>
-   *branch: __*
+   *branch: databases*
 4. Web-development / 5th semester - labs<br>
-   *branch: __*
+   *branch: web*
 5. Machine Learning Basics / 5th semester - labs<br>
-    *branch: __*
+    *branch: machine_learning*
