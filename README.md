@@ -3,12 +3,17 @@
 ## Subjects & branches
 
 1. Object Oriented Programming / 3rd semester - labs and course work<br>
-   *branch: oop*
+   *branch: oop*<br>
+   *language: Java*
 2. Algorithms and Data Structures / 4th semester - labs and course work<br>
-   *branch: alg_ds*
+   *branch: alg_ds*<br>
+   *language: C++*
 3. Databases / 5th semester - labs<br>
-   *branch: databases*
+   *branch: databases*<br>
+   *language: T-SQL*
 4. Web-development / 5th semester - labs<br>
-   *branch: web*
+   *branch: web*<br>
+   *language: Python + Flask*
 5. Machine Learning / 5th semester - labs<br>
-    *branch: machine_learning*
+   *branch: machine_learning*<br>
+   *language: Python + Pandas*
