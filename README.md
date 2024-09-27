@@ -1,6 +1,6 @@
 # Informatics and Computer Science
 
-## Subjects
+## Subjects & branches
 
 1. Object Oriented Programming / 3rd semester - labs and course work<br>
    *branch: oop*
